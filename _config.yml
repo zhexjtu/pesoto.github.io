@@ -3,12 +3,12 @@
 title: Zhe Wang
 name: Zhe Wang
 subtitle: Master in Applied Mathematics
-email: paul.soto@upf.edu
+email: zhewangxjtu@gmail.com
 description: >
-  PhD Candidate in Economics
+  Master in Applied Mathematics
 baseurl: ""
 url: "https://zhexjtu.github.io/"
-github_username:  pesoto
+github_username:  zhexjtu
 disqus_baseurl: "https://zhexjtu.github.io/"
 disqus_shortname: https-zhexjtu-github-io
 permalink: :title
@@ -39,7 +39,7 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
+    username: zhexjtu
     url: https://github.com/zhexjtu
     desc: Fork me on GitHub
     share: false
@@ -47,6 +47,6 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Paul E. Soto
-    url: https://linkedin.com/pesoto
+    url: https://www.linkedin.com/in/哲-王-119639170/
     desc: Connect with me on LinkedIn
     share: true
