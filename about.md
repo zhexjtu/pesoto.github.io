@@ -6,5 +6,5 @@ permalink: /about/
 I am currently pursuing my Master degree in Applied Mathematics at Xi'an Jiaotong University. I started my academic career in mathematics, with a Bachelor's degree in Mathematics and Applied Mathematics (Elite Class) from Xi'an Jiaotong University. I spent some time working alongside central banks through an 8 month visit in Germany at the Deutsche Bundesbank and with a current research project with the Banco de la Rep&uacute;blica of Colombia.Previously, I did internships in the credit department of Moody's Analytics and in various financial companies, including investment funds. Outside of economics and finance, I like learning about natural language processing and neat ways of modelling text, improving my Brazilian Jiu Jitsu, and spending time with friends and family.   
 <br>
 <br>
-Download my <a href="https://www.dropbox.com/s/qrofcyhwkqwd96c/cv.pdf?dl=0" download="Zhe Wang- CV">CV</a><br>
+Download my <a href="https://www.dropbox.com/s/7n239nbb3gdwkpy/cv.pdf?dl=0" download="Zhe Wang- CV">CV</a><br>
 <br>
