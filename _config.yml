@@ -7,10 +7,10 @@ email: paul.soto@upf.edu
 description: >
   PhD Candidate in Economics
 baseurl: ""
-url: "https://pesoto.github.io/"
+url: "https://zhexjtu.github.io/"
 github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+disqus_baseurl: "https://zhexjtu.github.io/"
+disqus_shortname: https-zhexjtu-github-io
 permalink: :title
 
 # Build settings
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Zhe Wang"
 
 
 
@@ -40,7 +40,7 @@ social:
   - name: GitHub
     icon: github
     username: pesoto
-    url: https://github.com/pesoto
+    url: https://github.com/zhexjtu
     desc: Fork me on GitHub
     share: false
 
